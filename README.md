@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Welcome to the Caesar Cipher Game! This is a simple Python console application that lets you encrypt and decrypt text using the Caesar cipher.
+Welcome to the Caesar Cipher! This is a Python console application that lets you encrypt and decrypt text using the Caesar cipher.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to the Caesar Cipher Game! This is a simple Python console application t
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Run the game using Python 3.x.
+2. Run the main.py file using Python 3.x.
 3. Follow the prompts to choose between encoding and decoding, enter your text, and specify the shift value.
 4. Enjoy the encrypted or decrypted output!
 
